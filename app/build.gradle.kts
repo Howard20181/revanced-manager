@@ -26,7 +26,7 @@ val appId = "app.revanced.manager"
 
 android {
     namespace = appId
-    compileSdk = 32
+    compileSdk = 33
 
     testOptions {
         unitTests.isReturnDefaultValues = true
